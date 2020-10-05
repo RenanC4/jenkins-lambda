@@ -16,7 +16,7 @@ let response;
  */
 exports.lambdaHandler = async (event, context) => {
     try {
-        console.log('teste-jenkins')
+        console.log('teste-jenkins-renan')
         // const ret = await axios(url);
         response = {
             'statusCode': 200,
